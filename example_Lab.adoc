@@ -9,11 +9,13 @@ Use link:https://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc format]
 
 .Goals
 Goals serve as a check list of the steps to be performed, during this lab the student will:
+
 * Step 1 title
 * Step 2 Title
 * Step 3 Title
 
-Example:
+.Example:
+
 * Requesting an Openshift Environment
 * Installing my project in openshift
 * Integrating external tools with my project
@@ -51,4 +53,4 @@ Is not common to have a 3rd level sub title, but in case it happens, you should 
 
 I like the link:https://atom.io/[Atom editor] with link:https://atom.io/packages/asciidoc-preview[Asciidoc preview package] to preview my labs, you of course can use your preferred flavor.
 
-The .adoc files in gitHub are rendered in a visible format for the students, if you share the gitHub repository with them, it will be happily displayed as intended (sort of, there is a small gap between the local preview and the live format at gitHub). If you would like to share an html format instead, I recommend using link:https://asciidoclive.com/edit/scratch/1[Asciidoc live].
+The .adoc files in gitHub are rendered in a visible format for the students, if you share the gitHub repository with them, it will be happily link:https://github.com/gpe-mw-training/labs_example/blob/master/example_Lab.adoc[displayed as intended] (sort of, there is a small gap between the local preview and the live format at gitHub). If you would like to share an html format instead, I recommend using link:https://asciidoclive.com/edit/scratch/1[Asciidoc live].
